@@ -34,6 +34,10 @@ public class MainActivity extends AppCompatActivity {
         tvPicNumber = findViewById(R.id.tv_pic_number);
         setUploadView();
 
+
+
+
+
     }
 
     private void setUploadView() {
