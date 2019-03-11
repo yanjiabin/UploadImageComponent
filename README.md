@@ -21,7 +21,7 @@ Step 2. Add the dependency
 ```
 #### in your xml
 ```java
-	<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
   <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
